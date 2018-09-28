@@ -5,6 +5,9 @@
   "license": "GPL-2.0",
   "description": "WP Sync DB eliminates the manual work of migrating a WP database.",
   "keywords": ["plugin","wordpress","wp-sync-db","db"],
+  "require": {
+    "composer/installers": "~1.4"
+  },
   "scripts": {
     "test": "./test.sh"
   }
