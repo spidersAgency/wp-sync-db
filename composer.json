@@ -1,5 +1,6 @@
 {
   "name": "spidersagency/wp-sync-db",
+  "Version": "1.5.0",
   "type": "wordpress-plugin",
   "homepage": "https://github.com/spidersAgency/wp-sync-db.git",
   "license": "GPL-2.0",
